@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** specializing in end-to-end **intelligent automation** (UiPath, Power Platform) and **full-stack development** (Django REST, Next.js, MS Azure).
 
-Currently a Developer Advocate at [Chainstack](https://chainstack.com), focusing on tutorials and open-source projects for Web3 community.
+Developer Advocate at [Chainstack](https://chainstack.com), focusing on tutorials and open-source projects for Web3 community.
 
 #### **DeFi trading**
 * **[Pumpfun bot](https://github.com/chainstacklabs/pumpfun-bonkfun-bot)**: automated trading for Pump.fun ecosystem.
