@@ -8,7 +8,6 @@ Developer Advocate at [Chainstack](https://chainstack.com), focusing on tutorial
 * **[Pumpfun bot](https://github.com/chainstacklabs/pumpfun-bonkfun-bot)**: automated trading for Pump.fun ecosystem.
 * **[PumpClaw](https://github.com/chainstacklabs/pumpclaw)** & **[Pumpfun CLI](https://github.com/chainstacklabs/pumpfun-cli)**: command-line utilities and OpenClaw skill for Pump.fun trading.
 * **[Hyperliquid bot](https://github.com/chainstacklabs/hyperliquid-trading-bot)**: trading bot for Hyperliquid.
-* **[Kuru copy-trader](https://github.com/chainstacklabs/kuru-copy-trading-bot)**: copy trading for Kuru DEX (Monad).
 * **[PolyClaw](https://github.com/chainstacklabs/polyclaw)** & **[Polymarket alpha app](https://github.com/chainstacklabs/polymarket-alpha-bot)**: LLM-powered tracking for Polymarket covering pairs.
 
 #### **Web3 tools**
